@@ -1,5 +1,5 @@
 # Hi, I'm Sanjeev 👋🏽
-📍 United States | 🤖 Cornfield Chaser | 🛩️ Co-Founder of 2 Failed Startups
+📍 United States | 🤖 Cornfield Chaser | 🛩️ Co-Founder of a Failed Startup
 
 - Languages, Frameowrks
 
