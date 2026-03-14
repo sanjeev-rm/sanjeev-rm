@@ -25,7 +25,9 @@ Email: sr2432@cornell.edu
 X: www.x.com/SanjeevOnX  
 
 *If you don't know what to say to me*  
-*Just text me the name of my favourite food chain.. 🌮*  
+*Just look around this page, find and text me my favourite food chain.. 🌮*  
+<!-- *Just text me the name of my favourite food chain.. 🌮*  -->
+  
 
 <!---
 sanjeev-rm/sanjeev-rm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
