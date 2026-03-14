@@ -1,17 +1,27 @@
 # Hi, I'm Sanjeev 👋🏽
-📍 United States | 🤖 Cornfield Chaser | 🛩️ Co-Founder of a Failed Startup
+📍 United States | 🤖 Cornfield Chaser | 🛩️ Co-Founder of a failed Startup
 
-- Languages, Frameowrks
+<!--
+![Swift](https://img.shields.io/badge/Swift-000?logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
+-->
 
-- Description in one line what I am doing.
+> Cornell CS graduate student. Building software that feels intuitive.
 
-## Current Projects
+<!--
+## Projects
+- Scapea
+-->
 
-## What I'm doing
-
-## Github Activity
+## Achievements
+- Published Patent - LEADS - An unique custom technique of text ranking for legal documents
+- Successfully Failed Startup - Scapea - An AR App built for people with disabilities to buy products at the comfort of their home
+- 20feet dive into a natural pool - I don't know how to swim
 
 ## Connect
+LinkedIn: www.linkedin.com/in/sanjeev-ragunathan/  
+Email: sr2432@cornell.edu  
+X: www.x.com/SanjeevOnX  
 
 
 <!---
