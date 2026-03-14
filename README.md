@@ -24,7 +24,8 @@ LinkedIn: www.linkedin.com/in/sanjeev-ragunathan/
 Email: sr2432@cornell.edu  
 X: www.x.com/SanjeevOnX  
 
-*Text me the name of my favourite food chain..*
+*If you don't know what to say to me*  
+*Just text me the name of my favourite food chain.. 🌮*  
 
 <!---
 sanjeev-rm/sanjeev-rm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
