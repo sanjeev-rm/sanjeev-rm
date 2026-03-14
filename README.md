@@ -14,6 +14,7 @@
 -->
 
 ## Achievements
+- HackUI Winner - First Ever Hackathon - Built an app for Amputees and their prosthesis
 - Published Patent - LEADS - An unique custom technique of text ranking for legal documents
 - Successfully Failed Startup - Scapea - An AR App built for people with disabilities to buy products at the comfort of their home
 - 20feet dive into a natural pool - I don't know how to swim
