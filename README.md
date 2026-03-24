@@ -22,7 +22,7 @@
 ## Connect
 LinkedIn: www.linkedin.com/in/sanjeev-ragunathan/  
 Email: sr2432@cornell.edu  
-X: www.x.com/SanjeevOnX  
+X: www.x.com/sanjeevonx  
 
 *If you don't know what to say to me*  
 *Just look around this page, find and text me my favourite food chain.. 🌮*  
